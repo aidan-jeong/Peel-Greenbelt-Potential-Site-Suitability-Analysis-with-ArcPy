@@ -1,4 +1,5 @@
-  GGR321H5F22 |  Group Project  |   Group 12   |  ReadMe.txt
+Created a suitability modeling tool to identify sufficient areas for development within the Green Belt, considering factors such as terrain gradient, land usage, and proximity to facilities. 
+Utilized ArcPy to create a map of developable areas based on proximity analysis. The project is aimed to assist with the planned shift of Ontario's Green Belt.
 -------------------------------------------------------------
 
 1. Ontario Roads folder
